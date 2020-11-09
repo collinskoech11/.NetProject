@@ -1,18 +1,6 @@
 # Asp.Net Core MVC 3.1 tutorial with live application 
 Welcome to Asp.Net Core MVC tutorial. This is a complete and step by step tutorial for all the developers.
 
-## WebGentle Free YouTube video:
-You can learn Asp.Net Core MVC tutorial from WebGentle YouTube channel free of cost.
-You can access webgebtle youtube channel by clicking [here](https://www.youtube.com/watch?v=CP-zbZA5LAc&list=PLaFzfwmPR7_LTXu0Vz9Zz_Y0OMMC7ArHZ)
-
-## Kindly subscribe to Wegentle Youtube channel:
-Subscribe us: [Wegentle Youtube channel](https://bit.ly/webgentle)
-
-## Who can learn from this tutorial:
-All professionals who wants to start their career in asp.net core framework and want to add new skill in their bucket, can learn asp.net core from this tutorial.
-* Fresher
-* Experienced 
-* Anyone who has basic knowledge of programming
 
 ## Key features of this course:
 * Free of cost - No need to pay anything
