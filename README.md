@@ -1,4 +1,4 @@
-# Asp.Net Core MVC 3.1 tutorial with live application by Nitish
+# Asp.Net Core MVC 3.1 tutorial with live application 
 Welcome to Asp.Net Core MVC tutorial. This is a complete and step by step tutorial for all the developers.
 
 ## WebGentle Free YouTube video:
@@ -88,7 +88,3 @@ No special knowledge is required for this tutorial. But it will be helpful if ha
 59. [Multiselect dropdown in asp.net core](https://www.youtube.com/watch?v=n2gTAdpkvLg&list=PLaFzfwmPR7_LTXu0Vz9Zz_Y0OMMC7ArHZ&index=59)
 60. [Create dropdown using Enum in asp.net core](https://www.youtube.com/watch?v=0JDxnjcH_v0&list=PLaFzfwmPR7_LTXu0Vz9Zz_Y0OMMC7ArHZ&index=60)
 
-To be added...
-
-## Contact the author:
-You can contact nitish on nitish@webgentle.com, nitish.webgentle@gmail.com
